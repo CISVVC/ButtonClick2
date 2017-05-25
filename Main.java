@@ -3,6 +3,8 @@ import javax.swing.JPanel;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 
+// This program is an example of using ActionListeners on a JButton
+
 public class Main extends JFrame {
     private static JLabel label1;
     private static JLabel label2;
