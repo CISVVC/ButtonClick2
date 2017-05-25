@@ -11,8 +11,8 @@ public class Main extends JFrame {
 
     public static void main(String[] args)
     {
-        final int FRAME_WIDTH = 300;
-        final int FRAME_HEIGHT = 400;
+        final int FRAME_WIDTH = 640;
+        final int FRAME_HEIGHT = 480;
 
         JFrame frame = new Main();
         frame.setSize(FRAME_WIDTH,FRAME_HEIGHT);
